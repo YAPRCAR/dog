@@ -1,3 +1,3 @@
-module github.com/YAPRCAR/Dog/dog
+module github.com/YAPRCAR/DOG/dog
 
 go 1.25.0
